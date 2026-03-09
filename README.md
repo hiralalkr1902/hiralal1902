@@ -44,6 +44,9 @@ All projects will be available on my GitHub soon. 🚧
 ## 📬 Connect with Me
 
 📧 Email:hiralalgh250@gmail.com
-📱 Mobile: +91 9123456789 
+
+📱 Mobile: +91 8084895073
+
 🧑‍💼 LinkedIn:https://www.linkedin.com/in/hiralal-kumar-10362a2ab?
+
 🐱 GitHub:https://github.com/hiralalkr1902
