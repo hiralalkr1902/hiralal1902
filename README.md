@@ -6,7 +6,7 @@
 
 * 💻 I'm learning **Full Stack Web Development**
 * 🌐 Interested in **building modern web applications**
-* ⚙️ I enjoy creating projects like **Portfolio Websites, Job Portal, and Web Apps**
+* ⚙️ I enjoy creating projects like **Portfolio Websites, Job Portal**
 * 📚 Currently learning **React, Node.js, MongoDB, and JavaScript**
 
 ---
