@@ -6,7 +6,7 @@
 
 * 💻 I'm learning **Full Stack Web Development**
 * 🌐 Interested in **building modern web applications**
-* ⚙️ I enjoy creating projects like **Job Portal, Portfolio Websites, and Web Apps**
+* ⚙️ I enjoy creating projects like ** Portfolio Websites,Job Portal, and Web Apps**
 * 📚 Currently learning **React, Node.js, MongoDB, and JavaScript**
 
 ---
@@ -26,7 +26,7 @@ Node.js, Express.js
 MongoDB, MySQL
 
 **Tools & Platforms:**
-Git, GitHub, VS Code, Linux
+Git, GitHub,Excel, Power Point, VS Code,
 
 **Soft Skills:**
 Quick learner, Problem solving, Teamwork
