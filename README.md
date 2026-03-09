@@ -9,7 +9,7 @@
 * ⚙️ I enjoy creating projects like **Portfolio Websites, Job Portal**
 * 📚 Currently learning **React, Node.js, MongoDB, and JavaScript**
 
----
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 Skills
 
@@ -28,7 +28,7 @@ Git, GitHub,Excel, Power Point, VS Code,
 **Soft Skills:**
 Quick learner, Problem solving, Teamwork
 
----
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Projects
 
@@ -39,12 +39,11 @@ All projects will be available on my GitHub soon. 🚧
 🔹 **Portfolio Website** — Personal website to showcase my skills and projects.
 
 
----
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 📬 Connect with Me
 
 📧 Email:hiralalgh250@gmail.com
-
+📱 Mobile: +91 9123456789 
 🧑‍💼 LinkedIn:https://www.linkedin.com/in/hiralal-kumar-10362a2ab?
-
 🐱 GitHub:https://github.com/hiralalkr1902
